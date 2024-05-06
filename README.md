@@ -52,5 +52,10 @@ Una rama es una bifurcación de nuestro código
 Nos sirve para ensayar o generar versiones alternativas de nuestro código principal
 
 ```
-git checkout -b chore/modify-readme
+1. creo la rama: git checkout -b chore/modify-readme
+2. git add . (agrego cambios)
+3. git commit -m "modify readme"
+4. git push
 ```
+
+> Si querés más información de comandos podes ir a: https://www.atlassian.com/es/git/glossary#commands
